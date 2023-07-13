@@ -1,6 +1,13 @@
-# game
+# Word Game
 
-A new Flutter project.
+A word game build with flutter. Uses Hive as database.
+
+## Screenshots
+
+![App Screenshot](/screenshots/screenshot1.png)
+![App Screenshot](/screenshots/screenshot2.png)
+![App Screenshot](/screenshots/screenshot3.png)
+![App Screenshot](/screenshots/screenshot4.png)
 
 ## Getting Started
 
